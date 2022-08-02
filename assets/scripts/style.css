@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#pagepiling .section {
+    text-align: center;
+}
+
+#pagepiling .section h1{
+    color: #fff;
+    text-shadow: 0 5px 15px rgb(0, 0, 0,0.5);
+    font-size: 60px;
+}
+.section {
+    background-color: blue;
+}
+
+#pp-nav li .active span, .pp-slidesNav .active span {
+    background: #fff;
+}
