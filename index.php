@@ -99,7 +99,7 @@ session_start();
             <div>
               <p class="homeStatic">I am a developer from Turkey specialized in Front-End.</p>
             </div>
-            <a href="/assets/pdf/sametkelesCv.pdf" download="sametkelesCv.pdf"></a><button type="button" class="btn btn-home btn-lg px-4 me-lg-3 mt-5 mx-auto fw-bold">Download Cv</button></a>
+            <a href="/pdf/sametkelesCv.pdf" download="sametkelesCv.pdf"></a><button type="button" class="btn btn-home btn-lg px-4 me-lg-3 mt-5 mx-auto fw-bold">Download Cv</button></a>
         </div> <!-- !HOME END-->
         <div class="section about-me"> <!-- !ABOUT ME START-->
           <div class="container">
