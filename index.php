@@ -51,6 +51,29 @@ session_start();
 
       gtag('config', 'G-TCZMDBTE3V');
     </script>
+    <script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.9.1/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.9.1/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyD0eO0lGJ-2TxotsQUZmugMjTDCpK0603Y",
+    authDomain: "sametkeles-43adc.firebaseapp.com",
+    projectId: "sametkeles-43adc",
+    storageBucket: "sametkeles-43adc.appspot.com",
+    messagingSenderId: "166331720621",
+    appId: "1:166331720621:web:838ba379b3683ab7727724",
+    measurementId: "G-VH48HRJKRK"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
   </head>
   <body>
     <div id="myMenu" class="container fixed-top"> <!-- !Head Start-->
@@ -76,7 +99,7 @@ session_start();
             <div>
               <p class="homeStatic">I am a developer from Turkey specialized in Front-End.</p>
             </div>
-            <a href="assets/pdf/sametkelesCv.pdf" download></a><button type="button" class="btn btn-home btn-lg px-4 me-lg-3 mt-5 mx-auto fw-bold">Download Cv</button></a>
+            <a href="/assets/pdf/sametkelesCv.pdf" download="sametkelesCv.pdf"></a><button type="button" class="btn btn-home btn-lg px-4 me-lg-3 mt-5 mx-auto fw-bold">Download Cv</button></a>
         </div> <!-- !HOME END-->
         <div class="section about-me"> <!-- !ABOUT ME START-->
           <div class="container">
