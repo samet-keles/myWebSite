@@ -160,7 +160,7 @@ session_start();
                 <div class="px-4 pt-5 my-5 text-center border-bottom">
                   <h1 class="display-4 fw-bold">Medium Clone</h1>
                   <div class="col-lg-6 mx-auto">
-                    <p class="lead mb-4">Htlm Css Bootstrap Javascript.</p>
+                    <p class="lead mb-4">Html Css Bootstrap Javascript.</p>
                     <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
                       <a href="https://samet-mediumclone.netlify.app/" target="_blank"><button type="button" class="btn btn-demo btn-primary btn-lg px-4 me-sm-3">Demo</button></a>
                       <a href="https://github.com/sametkeles06/Medium-clone" target="_blank"><button type="button" class="btn btn-outline-dark btn-lg px-4">Github</button></a>
@@ -175,26 +175,9 @@ session_start();
               </div> <!-- ? CAROUSEL ITEM 1 END-->
               <div class="carousel-item" data-bs-interval="2000"> <!-- ? CAROUSEL ITEM 2 START-->
                 <div class="px-4 pt-5 my-5 text-center border-bottom">
-                  <h1 class="display-4 fw-bold">Digital Clock</h1>
+                  <h1 class="display-4 fw-bold">Calculator</h1>
                   <div class="col-lg-6 mx-auto">
-                    <p class="lead mb-4">Htlm Css Javascript.</p>
-                    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-                      <a href="https://sametkelesdigitalclock.netlify.app/" target="_blank"><button type="button" class="btn btn-demo btn-primary btn-lg px-4 me-sm-3">Demo</button></a>
-                      <a href="#" target="_blank"><button type="button" class="btn btn-outline-dark btn-lg px-4">Github</button></a>
-                    </div>
-                  </div>
-                  <div class="overflow-hidden" style="max-height: 30vh;">
-                    <div class="container px-5">
-                      <img src="assets/images/digital-clock.png" class="img-fluid border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
-                    </div>
-                  </div>
-                </div>
-              </div> <!-- ? CAROUSEL ITEM 2 END-->
-              <div class="carousel-item" data-bs-interval="2000"> <!-- ? CAROUSEL ITEM 3 START-->
-                <div class="px-4 pt-5 my-5 text-center border-bottom">
-                  <h1 class="display-4 fw-bold">Digital Clock</h1>
-                  <div class="col-lg-6 mx-auto">
-                    <p class="lead mb-4">Htlm Css Javascript.</p>
+                    <p class="lead mb-4">Html Bootstrap Javascript Vue.</p>
                     <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
                       <a href="https://samet-calculator.netlify.app" target="_blank"><button type="button" class="btn btn-demo btn-primary btn-lg px-4 me-sm-3">Demo</button></a>
                       <a href="https://github.com/sametkeles06/vue-calculator" target="_blank"><button type="button" class="btn btn-outline-dark btn-lg px-4">Github</button></a>
@@ -206,12 +189,29 @@ session_start();
                     </div>
                   </div>
                 </div>
+              </div> <!-- ? CAROUSEL ITEM 2 END-->
+              <div class="carousel-item" data-bs-interval="2000"> <!-- ? CAROUSEL ITEM 3 START-->
+                <div class="px-4 pt-5 my-5 text-center border-bottom">
+                  <h1 class="display-4 fw-bold">Digital Clock</h1>
+                  <div class="col-lg-6 mx-auto">
+                    <p class="lead mb-4">Html Css Javascript.</p>
+                    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
+                      <a href="https://sametkelesdigitalclock.netlify.app/" target="_blank"><button type="button" class="btn btn-demo btn-primary btn-lg px-4 me-sm-3">Demo</button></a>
+                      <a href="#" target="_blank"><button type="button" class="btn btn-outline-dark btn-lg px-4">Github</button></a>
+                    </div>
+                  </div>
+                  <div class="overflow-hidden" style="max-height: 30vh;">
+                    <div class="container px-5">
+                      <img src="assets/images/digital-clock.png" class="img-fluid border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
+                    </div>
+                  </div>
+                </div>
               </div> <!-- ? CAROUSEL ITEM 3 END-->
               <div class="carousel-item"> <!-- ? CAROUSEL ITEM 4 START-->
                     <div class="px-4 pt-5 my-5 text-center border-bottom">
                   <h1 class="display-4 fw-bold">TO Do List</h1>
                   <div class="col-lg-6 mx-auto">
-                    <p class="lead mb-4">Htlm Css Bootstrap Javascript.</p>
+                    <p class="lead mb-4">Html Css Bootstrap Javascript.</p>
                     <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
                       <a href="https://sametkeles-todo.netlify.app/" target="_blank"><button type="button" class="btn btn-demo btn-primary btn-lg px-4 me-sm-3">Demo</button></a>
                       <a href="https://github.com/sametkeles06/JavaScrit-ToDoList" target="_blank"><button type="button" class="btn btn-outline-dark btn-lg px-4">Github</button></a>
@@ -228,7 +228,7 @@ session_start();
                 <div class="px-4 pt-5 my-5 text-center border-bottom">
                   <h1 class="display-4 fw-bold">Bmi Calculator</h1>
                   <div class="col-lg-6 mx-auto">
-                    <p class="lead mb-4">Htlm Css Bootstrap Javascript.</p>
+                    <p class="lead mb-4">Html Css Bootstrap Javascript.</p>
                     <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
                       <a href="https://sametkeles-bmi.netlify.app/" target="_blank"><button type="button" class="btn btn-demo btn-primary btn-lg px-4 me-sm-3">Demo</button></a>
                       <a href="#" target="_blank"><button type="button" class="btn btn-outline-dark btn-lg px-4">Github</button></a>
