@@ -153,6 +153,7 @@ session_start();
               <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
               <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
               <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
             </div>
             <div class="carousel-inner"> <!-- !CAROUSEL INNER START -->
               <div class="carousel-item active" data-bs-interval="10000"> <!-- ? CAROUSEL ITEM 1 START-->
@@ -189,7 +190,24 @@ session_start();
                   </div>
                 </div>
               </div> <!-- ? CAROUSEL ITEM 2 END-->
-              <div class="carousel-item"> <!-- ? CAROUSEL ITEM 3 START-->
+              <div class="carousel-item" data-bs-interval="2000"> <!-- ? CAROUSEL ITEM 3 START-->
+                <div class="px-4 pt-5 my-5 text-center border-bottom">
+                  <h1 class="display-4 fw-bold">Digital Clock</h1>
+                  <div class="col-lg-6 mx-auto">
+                    <p class="lead mb-4">Htlm Css Javascript.</p>
+                    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
+                      <a href="https://samet-calculator.netlify.app" target="_blank"><button type="button" class="btn btn-demo btn-primary btn-lg px-4 me-sm-3">Demo</button></a>
+                      <a href="https://github.com/sametkeles06/vue-calculator" target="_blank"><button type="button" class="btn btn-outline-dark btn-lg px-4">Github</button></a>
+                    </div>
+                  </div>
+                  <div class="overflow-hidden" style="max-height: 30vh;">
+                    <div class="container px-5">
+                      <img src="assets/images/vue-calculator.png" class="img-fluid border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
+                    </div>
+                  </div>
+                </div>
+              </div> <!-- ? CAROUSEL ITEM 3 END-->
+              <div class="carousel-item"> <!-- ? CAROUSEL ITEM 4 START-->
                     <div class="px-4 pt-5 my-5 text-center border-bottom">
                   <h1 class="display-4 fw-bold">TO Do List</h1>
                   <div class="col-lg-6 mx-auto">
@@ -205,8 +223,8 @@ session_start();
                     </div>
                   </div>
                 </div>
-              </div> <!-- ? CAROUSEL ITEM 3 END-->
-              <div class="carousel-item"> <!-- ? CAROUSEL ITEM 4 START-->
+              </div> <!-- ? CAROUSEL ITEM 4 END-->
+              <div class="carousel-item"> <!-- ? CAROUSEL ITEM 5 START-->
                 <div class="px-4 pt-5 my-5 text-center border-bottom">
                   <h1 class="display-4 fw-bold">Bmi Calculator</h1>
                   <div class="col-lg-6 mx-auto">
@@ -222,7 +240,7 @@ session_start();
                     </div>
                   </div>
                 </div>
-              </div> <!-- ? CAROUSEL ITEM 4 END-->
+              </div> <!-- ? CAROUSEL ITEM 5 END-->
             </div>  <!-- !CAROUSEL INNER END -->
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
